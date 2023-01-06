@@ -1,1 +1,0 @@
-            <img src="./src/imagens/inicio.png" alt="">
